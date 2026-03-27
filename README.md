@@ -52,10 +52,6 @@ Use the following command to clone this repository:
 git clone https://github.com/mharoon1434/Smart-Learning-Management-System-LMS-CPP.git
 </pre>
 
-<p>
-Or click here: 
-<a href="https://github.com/mharoon1434/Smart-Learning-Management-System-LMS-CPP.git">Open Repository</a>
-</p>
 
 <hr/>
 
