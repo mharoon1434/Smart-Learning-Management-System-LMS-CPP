@@ -1,10 +1,10 @@
 #include<iostream>
 #include<vector>
 #include<string>
-    using namespace std;
-    int progress;
-    int courseenrol;
-int main();
+
+using namespace std;
+int progress;
+int courseenrol;
 class Instructor;
 class Course;
 class Assigniment{
